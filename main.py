@@ -29,4 +29,5 @@ def main():
         print(f"{char}: {count}")
     print("============= END ===============")
 
-main()
+if __name__ == "__main__":
+    main()
