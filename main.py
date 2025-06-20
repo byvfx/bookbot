@@ -28,6 +28,5 @@ def main():
     for char, count in sorted_chars:
         print(f"{char}: {count}")
     print("============= END ===============")
-
 if __name__ == "__main__":
     main()
